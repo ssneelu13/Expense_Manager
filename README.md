@@ -29,7 +29,9 @@ Daily Expense Tracker System is designed to keep a track of Income-Expense of a 
   ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/416cd8df-7d5b-4363-a453-44c9049a2515)
   
                Current month expenses
-        ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/aba2ed82-29e2-4d32-ab9e-9da8070e8132)
+  ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/371d6bb8-59bb-4b9c-ac09-39df5621b889)
+
+
 
 
 
