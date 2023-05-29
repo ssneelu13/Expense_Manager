@@ -25,11 +25,11 @@ Daily Expense Tracker System is designed to keep a track of Income-Expense of a 
                        Menu                                                                    
   ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/f36641f1-9b80-4180-ad30-9a3d3a7c2f88)
   
-                Current week's expenses
+               Current week's expenses
   ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/416cd8df-7d5b-4363-a453-44c9049a2515)
   
-                Current month expenses
-  ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/aba2ed82-29e2-4d32-ab9e-9da8070e8132)
+               Current month expenses
+        ![image](https://github.com/ssneelu13/Expense_Manager/assets/97376269/aba2ed82-29e2-4d32-ab9e-9da8070e8132)
 
 
 
